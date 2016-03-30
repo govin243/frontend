@@ -1,5 +1,13 @@
 <?php include 'header.php'; ?>
+
+
 <div class="content-top">
+
+    
+
+
+
+
   </aside><!-- Tab base slider-->
   <div id="content-top" class="col-sm-9">
   	<div class="wrapper">
@@ -7,34 +15,43 @@
 			<div id="slideshow0" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
             <div class="slidersize">
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
+      
         <div class="item active">
           <img src="image/Slider-1.jpg">
            <div class="carousel-caption">>
           </div>
         </div><!-- End Item -->
+ 
          <div class="item">
           <img src="image/slider-2.jpg">
            <div class="carousel-caption">
           </div>
         </div><!-- End Item -->
-                <div class="item">
+        
+        <div class="item">
           <img src="image/Slider-1.jpg">
            <div class="carousel-caption">
           </div>
         </div><!-- End Item -->
-                <div class="item">
+        
+        <div class="item">
           <img src="image/slider-2.jpg">
            <div class="carousel-caption">
           </div>
         </div><!-- End Item -->
-                <div class="item">
+        
+        <div class="item">
           <img src="image/Slider-1.jpg">
            <div class="carousel-caption">
           </div>
         </div><!-- End Item -->
+                
       </div><!-- End Carousel Inner -->
+
+
     	<ul class="nav nav-pills nav-justified">
           <li data-target="#myCarousel" data-slide-to="0" class=""><a href="#">About<small>Lorem ipsum dolor sit</small></a></li>
           <li data-target="#myCarousel" data-slide-to="1"><a href="#">Projects<small>Lorem ipsum dolor sit</small></a></li>
@@ -42,6 +59,8 @@
           <li data-target="#myCarousel" data-slide-to="3"><a href="#">Services<small>Lorem ipsum dolor sit</small></a></li>
           <li data-target="#myCarousel" data-slide-to="4"><a href="#">Services<small>Lorem ipsum dolor sit</small></a></li>
         </ul>
+
+
     </div><!-- End Carousel -->
     </div>
  			 </div>
